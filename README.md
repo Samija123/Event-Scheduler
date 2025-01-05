@@ -50,4 +50,4 @@ They can filter events by time period, priority, or other criteria.
 
 Should be considered -->
 Code Clarity:  ensure the code is well-structured, well-commented, and easy to understand.
-Error Handling: implement robust error handling mechanisms to prevent unexpe
+Error Handling: implement robust error handling mechanisms to prevent unexpected errors.
